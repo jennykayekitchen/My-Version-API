@@ -4,14 +4,16 @@
   "description": "Simple json-server database to deploy to the cloud",
   "main": "server.js",
   "scripts": {
-      "start": "node server.js"
+    "start": "node server.js",
+    "build": "react-scripts build"
   },
   "keywords": [
-      "json-server, node, REST API"
+    "json-server, node, REST API"
   ],
   "author": "NSS Student",
   "license": "ISC",
   "dependencies": {
-      "json-server": "latest"
+    "json-server": "latest"
   }
 }
+
