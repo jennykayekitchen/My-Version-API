@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "latest",
-    "react-scripts": "latest",
+    "react-scripts": "5.0.1 --legacy-peer-deps",
     "typescript": "^5.0.4"
   }
   
