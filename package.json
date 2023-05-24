@@ -13,9 +13,11 @@
   "author": "NSS Student",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.17.0",
-    "react-scripts": "^5.0.1"
+    "json-server": "latest",
+    "react-scripts": "latest",
+    "typescript": "4.9.5"
   }
+  
   
   
 }
