@@ -13,7 +13,8 @@
   "author": "NSS Student",
   "license": "ISC",
   "dependencies": {
-    "json-server": "latest"
+    "json-server": "latest",
+    "react-scripts": "latest"
   }
   
 }
